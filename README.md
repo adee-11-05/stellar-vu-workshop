@@ -32,4 +32,7 @@ Our vision is to revolutionize digital reward systems by leveraging blockchain t
 - **Cross-platform Integration**: Provide APIs for easy integration with games, educational platforms, and enterprise systems
 - **Analytics Dashboard**: Build comprehensive analytics tools for tracking user engagement and achievement completion rates
 - **Reward Redemption System**: Partner with vendors to allow users to redeem reward points for real-world goods and services
-- **Automated Achievement Detection**: Integrate oracles to automatically verify and award achievements based on external data sources
+
+- **Automated Achievement Detection**: Integrate oracles to automatically verify and award achievements based on external data sources![WhatsApp Image 2025-10-16 at 09 46 57_c00b42a4](https://github.com/user-attachments/assets/c29a77f0-2a9b-4bae-9a72-cf0ccceff387)
+
+- 
